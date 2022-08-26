@@ -35,7 +35,7 @@ const format = {
 };
 
 const extraMetadata = {
-  external_url: "https://ProjectCannabis", // Replace with your website or remove this line if you do not have one.
+  external_url: "https://projectCannabis", // Replace with your website or remove this line if you do not have one.
 };
 
 // NFTPort Info
@@ -56,10 +56,10 @@ const MINT_PRICE = 0.001; // Minting price per NFT. Rinkeby = ETH, Ethereum = ET
 const TOKENS_PER_MINT = 10; // maximum number of NFTs a user can mint in a single transaction. CANNOT BE UPDATED!
 
 // REQUIRED CONTRACT DETAILS THAT CAN BE UPDATED LATER.
-const PUBLIC_MINT_START_DATE = "2022-08-24T05:30:48+00:00"; // This is required. Eg: 2022-02-08T11:30:48+00:00
+const PUBLIC_MINT_START_DATE = "2022-08-29T05:30:48+00:00"; // This is required. Eg: 2022-02-08T11:30:48+00:00
 
 // OPTIONAL CONTRACT DETAILS THAT CAN BE UPDATED LATER.
-const PRESALE_MINT_START_DATE = "2022-08-23T05:30:48+00.00" // Optional. Eg: 2022-02-08T11:30:48+00:00
+const PRESALE_MINT_START_DATE = "2022-08-28T05:30:48+00.00" // Optional. Eg: 2022-02-08T11:30:48+00:00
 const ROYALTY_SHARE = 1000; // Percentage of the token price that goes to the royalty address. 100 bps = 1%
 const ROYALTY_ADDRESS = "0xB0C00c8B061c6b3A7752fACd768015628588798A"; // Address that will receive the royalty
 const BASE_URI = null; // only update if you want to manually set the base uri
