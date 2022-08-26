@@ -35,7 +35,7 @@ const format = {
 };
 
 const extraMetadata = {
-  external_url: "https://projectCannabis", // Replace with your website or remove this line if you do not have one.
+  external_url: "https://projectcannabis", // Replace with your website or remove this line if you do not have one.
 };
 
 // NFTPort Info
